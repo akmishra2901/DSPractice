@@ -6,6 +6,7 @@ namespace DSPractise.Array
 {
     public static class LargestSumContiguousSubarray
     {
+        // Program to Get Largest Sum Contiguous Subarray from Input Array
         public static int ReturnLargestContiguousSum(this int[] inputArray) {
             int maxSum = int.MinValue;
             int maxSumEndingHere = 0;
