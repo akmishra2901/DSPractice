@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DSPractise.Arrays
+namespace DSPractice.Arrays
 {
     public static class LargestSumContiguousSubarray
     {

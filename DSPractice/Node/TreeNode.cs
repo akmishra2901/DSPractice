@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DSPractise.Node
+namespace DSPractice.Node
 {
     public class TreeNode
     {

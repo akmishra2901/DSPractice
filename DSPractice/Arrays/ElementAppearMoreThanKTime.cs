@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Collections;
-namespace DSPractise.Arrays
+namespace DSPractice.Arrays
 {
     // To Find occurrence of element more than K [Input] times
     public static class ElementAppearMoreThanKTime
