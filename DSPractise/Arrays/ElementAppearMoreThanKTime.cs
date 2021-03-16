@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Collections;
-namespace DSPractise.Array
+namespace DSPractise.Arrays
 {
-    // To Find 
+    // To Find occurrence of element more than K [Input] times
     public static class ElementAppearMoreThanKTime
     {
         public static int[] GetElementAppearsMoreThanKTime(this int[] inputArray, int k) {
